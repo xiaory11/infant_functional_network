@@ -1,1 +1,1 @@
-# infant-functional-network-gender-age
+# infant_functional_network
