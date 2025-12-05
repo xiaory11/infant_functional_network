@@ -1,1 +1,1 @@
-# infant_functional_network
+# infant_functional_networks
